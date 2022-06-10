@@ -6,7 +6,7 @@ Purpose
 
 Results
 
-  It's shown that the amount of rides get larger as the size of the city gets larger. Number of rides was also connected to the number of drivers as it also shows a  relationship between city sizes and total drivers & total rides. Also, the total fares showed a similar relationship. But, if we look at the average fare per ride and average fare per driver, it shows the opposite relationship as rural city types had the highest average fare per ride and average fare per driver.
+  As we can see, the amount of rides get larger as the size of the city gets larger. The number of rides was also connected to the number of drivers as it also shows a  relationship between city sizes, total drivers, and total rides. The total fares also showed a similar relationship. But, if we look at the average fare per ride and average fare per driver, it shows the opposite relationship as rural city types had the highest average fare per ride and average fare per driver.
 From the multiple-line chart, the total fare of urban cities had the highest fare followed by suburban and rural cities.
 
 Summary
